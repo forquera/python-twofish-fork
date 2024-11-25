@@ -3,7 +3,7 @@ python-twofish
 
 Bindings for the Twofish implementation by Niels Ferguson libtwofish-dev_.
 
-Compatible with Python 2.6, 2.7 and 3.3.
+Compatible with Python 3.12.7
 
 The library performs a self-test at each import.
 
